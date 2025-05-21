@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Ecommerce  App</string>
+    <string name="title_activity_register_flow">RegisterFlow</string>
+</resources>
